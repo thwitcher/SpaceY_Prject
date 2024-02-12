@@ -1,2 +1,2 @@
 # SpaceY_Prject
-This project is for educational purposes. 
+Space X Falcon 9 Landing Prediction.
